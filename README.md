@@ -130,7 +130,7 @@ Tm_WAS      4.342206
 ---
 
 **Analysis Overview**<br>
-Some of the analyzed categories are shown below, please find more in the profect.
+Some of the analyzed categories are shown below, please find more in the project.
 
 ***Identifying Outliers***: Box plots are generated for various features in the dataset to visually identify outliers. Each box plot displays the distribution of values within a feature, highlighting the median, quartiles, and potential outliers.
 
